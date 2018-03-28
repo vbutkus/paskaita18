@@ -1,0 +1,32 @@
+[
+  {
+    "city": "Vilnius",
+    "type": "cat",
+    "weight": 10,
+    "name": "Genadijus"
+  },
+  {
+    "city": "Kaunas",
+    "type": "dog",
+    "weight": 50,
+    "name": "Zenonas"
+  },
+  {
+    "city": "Klaipeda",
+    "type": "cow",
+    "weight": 80,
+    "name": "Zhenia"
+  },
+  {
+    "city": "Vilnius",
+    "type": "Chicken",
+    "weight": 5,
+    "name": "Paksas"
+  },
+  {
+    "city": "Vilnius",
+    "type": "horse",
+    "weight": 70,
+    "name": "Benas"
+  }
+]
